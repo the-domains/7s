@@ -1,0 +1,28 @@
+name: 7S
+favicon: null
+layout_spectrum: 0.10336948116309941
+typography_spectrum: 0.757611206267029
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6330979107879102
+  lightness: 0.6128818106371909
+  saturation: 0.1365593858063221
+  rhythmicContrast: 0.3655522803310305
+purpose: []
